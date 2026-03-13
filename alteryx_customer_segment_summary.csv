@@ -1,0 +1,13 @@
+segment,region,total_customers,total_sales,order_count
+Consumer,Central,326,250210.522,590
+Consumer,East,342,347906.605,698
+Consumer,South,275,194702.213,438
+Consumer,West,354,355241.191,811
+Corporate,Central,180,152031.4968,345
+Corporate,East,203,195897.425,424
+Corporate,South,152,120546.8745,244
+Corporate,West,204,220018.27850000001,478
+Home Office,Central,120,90404.8944,221
+Home Office,East,124,125714.696,247
+Home Office,South,82,73902.3715,128
+Home Office,West,123,134960.215,298
